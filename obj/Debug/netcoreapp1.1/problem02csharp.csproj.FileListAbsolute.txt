@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\problem02csharp\bin\Debug\netcoreapp1.1\problem02csharp.deps.json
+C:\Users\Owner\Desktop\problem02csharp\bin\Debug\netcoreapp1.1\problem02csharp.runtimeconfig.json
+C:\Users\Owner\Desktop\problem02csharp\bin\Debug\netcoreapp1.1\problem02csharp.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\problem02csharp\bin\Debug\netcoreapp1.1\problem02csharp.dll
+C:\Users\Owner\Desktop\problem02csharp\bin\Debug\netcoreapp1.1\problem02csharp.pdb
+C:\Users\Owner\Desktop\problem02csharp\obj\Debug\netcoreapp1.1\problem02csharp.AssemblyInfo.cs
+C:\Users\Owner\Desktop\problem02csharp\obj\Debug\netcoreapp1.1\problem02csharp.dll
+C:\Users\Owner\Desktop\problem02csharp\obj\Debug\netcoreapp1.1\problem02csharp.pdb

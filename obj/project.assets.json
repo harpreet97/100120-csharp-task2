@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Owner\\Desktop\\problem02csharp\\problem02csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\problem02csharp\\problem02csharp.csproj",
       "projectName": "problem02csharp",
-      "projectPath": "c:\\Users\\Owner\\Desktop\\problem02csharp\\problem02csharp.csproj",
-      "outputPath": "c:\\Users\\Owner\\Desktop\\problem02csharp\\obj\\",
+      "projectPath": "C:\\Users\\Owner\\Desktop\\problem02csharp\\problem02csharp.csproj",
+      "outputPath": "C:\\Users\\Owner\\Desktop\\problem02csharp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/problem02csharp.dll": "c:\\Users\\Owner\\Desktop\\problem02csharp\\bin\\placeholder\\netcoreapp1.1\\problem02csharp.dll"
+        "lib/netcoreapp1.1/problem02csharp.dll": "C:\\Users\\Owner\\Desktop\\problem02csharp\\bin\\placeholder\\netcoreapp1.1\\problem02csharp.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
